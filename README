@@ -1,0 +1,4 @@
+Deletes all your tags from all your Flickr photos. Takes awhile to run (sorry).
+
+Uses the flickraw gem:
+http://github.com/hanklords/flickraw
